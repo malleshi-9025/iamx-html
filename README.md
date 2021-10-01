@@ -21,3 +21,5 @@ Use it freely but please do not republish, distribute or sell "as-is". Please cr
 Follow Ahmed: <a href="https://twitter.com/ahmedfaruk_me" target="_blank">Twitter</a>, <a href="https://www.facebook.com/ahmedfaruk.me" target="_blank">Facebook</a>, <a href="https://plus.google.com/u/0/114068300126923667161" target="_blank">Google+</a>
 
 <a href="http://trendytheme.net/" target="_blank">&copy; trendytheme </a>
+<p Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum./p>
+
